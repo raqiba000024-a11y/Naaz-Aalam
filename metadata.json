@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Luxury Commerce & Atelier",
+  "description": "A world-class, premium e-commerce platform offering bespoke craftsmanship, high-fidelity audio, horology, leather goods, and refined essentials with seamless shopping and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
